@@ -4,9 +4,6 @@ import com.yourapp.manager.BillingManager
 import com.yourapp.navigation.NavGraph
 import com.yourapp.ui.theme.YourAppTheme
 
-
-
-
 class MainActivity : ComponentActivity() {
     private lateinit var billingManager: BillingManager
 
